@@ -42,7 +42,7 @@ class UuidPrimaryKeyTest extends TestCase
         $this->assertEquals('string', $model->getKeyType());
     }
 
-    public function setUp()
+    public function setUp(): void
     {
         parent::setUp();
 
