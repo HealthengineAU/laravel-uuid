@@ -6,6 +6,7 @@ composer.lock
 phpunit.xml
 clover.xml
 coverage*
+.phpunit.result.cache
 
 # system
 .DS_Store
