@@ -2,8 +2,6 @@
 
 [![Latest Stable Version](https://poser.pugx.org/healthengine/laravel-uuid/version)](https://packagist.org/packages/healthengine/laravel-uuid)
 [![Total Downloads](https://poser.pugx.org/healthengine/laravel-uuid/downloads)](https://packagist.org/packages/healthengine/laravel-uuid)
-[![Build Status](https://travis-ci.com/HealthEngineAU/laravel-uuid.svg?branch=master)](https://travis-ci.com/HealthEngineAU/laravel-uuid)
-[![Coverage Status](https://coveralls.io/repos/github/HealthEngineAU/laravel-uuid/badge.svg?branch=master)](https://coveralls.io/github/HealthEngineAU/laravel-uuid?branch=master)
 
 This is a custom package designed for Laravel Eloquent. It provides a trait that can be used in model classes that will
 automatically generate a UUID primary key instead of the default auto-incrementing integer.
