@@ -1,4 +1,5 @@
 {
+    "abandoned": "laravel/framework",
     "name": "healthengine/laravel-uuid",
     "description": "Use UUIDs as primary keys for Eloquent models",
     "keywords": ["laravel", "eloquent", "uuid"],
