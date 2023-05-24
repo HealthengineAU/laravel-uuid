@@ -1,3 +1,9 @@
+> **Warning**
+>
+> This repository is archived.
+>
+> Use [laravel/framework](https://github.com/laravel/framework) instead.
+
 # Laravel UUID
 
 [![Latest Stable Version](https://poser.pugx.org/healthengine/laravel-uuid/version)](https://packagist.org/packages/healthengine/laravel-uuid)
